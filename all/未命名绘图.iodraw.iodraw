@@ -113,18 +113,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-104" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="110" height="40" as="geometry" />
+          <mxGeometry x="110" y="290" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-106" target="PbO437Gk_KlcIjcAYgFw-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-106">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="192.79999999999995" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-106" value="cDNA合成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="340" width="110" height="40" as="geometry" />
+          <mxGeometry x="110" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-108" value="CDS区域克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="450" width="110" height="40" as="geometry" />
