@@ -126,7 +126,7 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-95" value="蛋白纯化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="980" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-97" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-97" value="蛋白活性检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1100" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
