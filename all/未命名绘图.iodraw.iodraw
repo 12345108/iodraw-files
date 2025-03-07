@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-75" value="转化感受态细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="400" width="130" height="40" as="geometry" />
+          <mxGeometry x="260" y="320" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-77" target="PbO437Gk_KlcIjcAYgFw-79">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-85" value="表达菌株培养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="290" width="110" height="40" as="geometry" />
+          <mxGeometry x="430" y="260" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-87" target="PbO437Gk_KlcIjcAYgFw-89">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-106" value="cDNA合成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="370" width="110" height="40" as="geometry" />
+          <mxGeometry x="120" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-108" value="CDS区域克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="450" width="110" height="40" as="geometry" />
