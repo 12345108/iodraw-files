@@ -7,8 +7,10 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-1" target="PbO437Gk_KlcIjcAYgFw-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-1" target="PbO437Gk_KlcIjcAYgFw-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-1" value="&lt;p style=&quot;margin: 6pt 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;秦艽中两个环烯醚萜合成关键酶基因的克隆和原核表达研究&lt;/font&gt;&lt;/u&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="204" y="20" width="446" height="60" as="geometry" />
@@ -19,11 +21,10 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-4" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="140" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-5" target="PbO437Gk_KlcIjcAYgFw-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-5" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="140" width="170" height="40" as="geometry" />
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PbO437Gk_KlcIjcAYgFw-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="180" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-6">
           <mxGeometry relative="1" as="geometry">
@@ -77,8 +78,11 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-29" value="铺抗性平板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-5" target="PbO437Gk_KlcIjcAYgFw-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="180" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-33" target="PbO437Gk_KlcIjcAYgFw-35">
           <mxGeometry relative="1" as="geometry" />
@@ -123,7 +127,10 @@
           <mxGeometry x="215" y="520" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-51" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="640" width="170" height="40" as="geometry" />
+          <mxGeometry x="215" y="610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-53" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="140" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
