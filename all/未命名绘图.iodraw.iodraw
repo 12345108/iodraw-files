@@ -128,7 +128,7 @@
           <mxGeometry x="120" y="380" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-113" value="生物信息学分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="660" width="110" height="40" as="geometry" />
+          <mxGeometry x="120" y="510" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-134" target="PbO437Gk_KlcIjcAYgFw-104">
           <mxGeometry relative="1" as="geometry" />
