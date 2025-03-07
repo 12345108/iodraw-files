@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-71" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="310" width="130" height="40" as="geometry" />
+          <mxGeometry x="260" y="260" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-75" target="PbO437Gk_KlcIjcAYgFw-77">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-104" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="110" height="40" as="geometry" />
+          <mxGeometry x="120" y="260" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-106" target="PbO437Gk_KlcIjcAYgFw-108">
           <mxGeometry relative="1" as="geometry" />
