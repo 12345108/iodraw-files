@@ -31,11 +31,29 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-6" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-8" target="PbO437Gk_KlcIjcAYgFw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-8" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-13" target="PbO437Gk_KlcIjcAYgFw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-13" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-15" target="PbO437Gk_KlcIjcAYgFw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-15" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-17" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-19" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
