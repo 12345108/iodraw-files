@@ -33,11 +33,6 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-53" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="140" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-60" target="PbO437Gk_KlcIjcAYgFw-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-71" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="130" height="40" as="geometry" />
+          <mxGeometry x="270" y="290" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-75" target="PbO437Gk_KlcIjcAYgFw-77">
           <mxGeometry relative="1" as="geometry" />
