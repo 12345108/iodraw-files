@@ -124,8 +124,14 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-75" value="转化感受态细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="580" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-77" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-77" target="PbO437Gk_KlcIjcAYgFw-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-77" value="铺抗性平板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-79" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="820" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
