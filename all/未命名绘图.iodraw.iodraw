@@ -33,26 +33,18 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-53" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="140" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-60" target="PbO437Gk_KlcIjcAYgFw-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-60" value="目的基因的获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-67" target="PbO437Gk_KlcIjcAYgFw-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PbO437Gk_KlcIjcAYgFw-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="420" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-67" value="cDNA合成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-69" target="PbO437Gk_KlcIjcAYgFw-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-69" target="PbO437Gk_KlcIjcAYgFw-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-69" value="CDS区克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="380" width="130" height="40" as="geometry" />
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PbO437Gk_KlcIjcAYgFw-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-71" target="PbO437Gk_KlcIjcAYgFw-75">
           <mxGeometry relative="1" as="geometry" />
