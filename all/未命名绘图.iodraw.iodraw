@@ -103,7 +103,7 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-35" value="测序验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-37" value="阳性克隆筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-37" value="保存阳性克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
