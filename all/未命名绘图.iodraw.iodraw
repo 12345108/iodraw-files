@@ -131,7 +131,7 @@
           <mxGeometry x="110" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-108" value="CDS区域克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="450" width="130" height="40" as="geometry" />
+          <mxGeometry x="110" y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-113" value="生物信息学分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="690" width="130" height="40" as="geometry" />
