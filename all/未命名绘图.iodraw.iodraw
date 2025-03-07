@@ -76,8 +76,14 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-25" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-27" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-27" target="PbO437Gk_KlcIjcAYgFw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-27" value="转化感受态细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-29" value="转化感受态细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
