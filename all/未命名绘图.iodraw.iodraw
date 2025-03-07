@@ -18,9 +18,6 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-4" target="PbO437Gk_KlcIjcAYgFw-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-4" target="PbO437Gk_KlcIjcAYgFw-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-4" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="130" height="40" as="geometry" />
         </mxCell>
@@ -36,9 +33,6 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-53" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="140" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-60" target="PbO437Gk_KlcIjcAYgFw-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-60" value="目的基因的获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="130" height="40" as="geometry" />
         </mxCell>
@@ -51,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-71" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="130" height="40" as="geometry" />
+          <mxGeometry x="240" y="290" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-73" value="生物信息学分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="380" width="120" height="40" as="geometry" />
@@ -121,9 +115,6 @@
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-97" value="蛋白活性检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1100" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-102" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="140" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
