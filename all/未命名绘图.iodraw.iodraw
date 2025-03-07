@@ -15,6 +15,9 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-1" value="&lt;p style=&quot;margin: 6pt 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;秦艽中两个环烯醚萜合成关键酶基因的克隆和原核表达研究&lt;/font&gt;&lt;/u&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="200" y="20" width="440" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-4" target="PbO437Gk_KlcIjcAYgFw-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-4" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="170" height="40" as="geometry" />
         </mxCell>
@@ -87,9 +90,6 @@
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-37" value="保存阳性克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-39" value="样品采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-40" target="PbO437Gk_KlcIjcAYgFw-41">
           <mxGeometry relative="1" as="geometry" />
