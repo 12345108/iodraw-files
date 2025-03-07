@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-104" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="210" width="130" height="40" as="geometry" />
+          <mxGeometry x="110" y="210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-106" target="PbO437Gk_KlcIjcAYgFw-108">
           <mxGeometry relative="1" as="geometry" />
@@ -135,9 +135,6 @@
         </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-113" value="生物信息学分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="690" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-71" target="PbO437Gk_KlcIjcAYgFw-71">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
