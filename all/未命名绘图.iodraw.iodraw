@@ -91,21 +91,6 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-37" value="保存阳性克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-43" target="PbO437Gk_KlcIjcAYgFw-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-43" value="CDS区克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="470" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-47" target="PbO437Gk_KlcIjcAYgFw-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-47" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="530" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-51" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="610" width="170" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-53" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="140" width="170" height="40" as="geometry" />
         </mxCell>
@@ -121,8 +106,14 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-67" value="cDNA合成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-69" target="PbO437Gk_KlcIjcAYgFw-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-69" value="CDS区克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-71" value="CDS区克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
