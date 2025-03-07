@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-1" value="&lt;p style=&quot;margin: 6pt 0cm;&quot; class=&quot;MsoNormal&quot;&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;秦艽中两个环烯醚萜合成关键酶基因的克隆和原核表达研究&lt;/font&gt;&lt;/u&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="204" y="100" width="446" height="60" as="geometry" />
         </mxCell>
