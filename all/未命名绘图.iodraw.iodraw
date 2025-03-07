@@ -91,11 +91,6 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-37" value="保存阳性克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PbO437Gk_KlcIjcAYgFw-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295.03999999999996" y="410" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-43" target="PbO437Gk_KlcIjcAYgFw-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -120,8 +115,14 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-60" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-67" target="PbO437Gk_KlcIjcAYgFw-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-67" value="cDNA合成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-69" value="cDNA合成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
