@@ -44,11 +44,6 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-60" value="目的基因的获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PbO437Gk_KlcIjcAYgFw-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="330" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-71" target="PbO437Gk_KlcIjcAYgFw-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -121,8 +116,14 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-97" value="蛋白活性检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1100" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-104" value="目的基因的获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-104" target="PbO437Gk_KlcIjcAYgFw-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-104" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-106" value="目的基因的获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
