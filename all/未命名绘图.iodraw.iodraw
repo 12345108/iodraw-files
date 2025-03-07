@@ -111,8 +111,14 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-40" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="280" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-41" target="PbO437Gk_KlcIjcAYgFw-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-41" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="400" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-43" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="520" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
