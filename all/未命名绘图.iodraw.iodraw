@@ -39,11 +39,6 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-8" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PbO437Gk_KlcIjcAYgFw-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="320" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-15" target="PbO437Gk_KlcIjcAYgFw-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -110,8 +105,14 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-39" value="样品采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="210" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-40" target="PbO437Gk_KlcIjcAYgFw-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-40" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-41" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="400" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
