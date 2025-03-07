@@ -49,11 +49,23 @@
         <mxCell id="PbO437Gk_KlcIjcAYgFw-15" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-17" target="PbO437Gk_KlcIjcAYgFw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-17" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PbO437Gk_KlcIjcAYgFw-19" target="PbO437Gk_KlcIjcAYgFw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PbO437Gk_KlcIjcAYgFw-19" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-21" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PbO437Gk_KlcIjcAYgFw-23" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
