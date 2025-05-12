@@ -91,13 +91,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-34" value="原核表达条件探索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="550" width="140" height="40" as="geometry" />
+          <mxGeometry x="50" y="500" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-36" target="6Jp87l313kywOyIuwCuy-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-36" value="蛋白纯化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="610" width="140" height="40" as="geometry" />
+          <mxGeometry x="50" y="580" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-38" value="蛋白活性检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="650" width="140" height="40" as="geometry" />
