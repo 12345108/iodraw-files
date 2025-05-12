@@ -129,6 +129,9 @@
         <mxCell id="6Jp87l313kywOyIuwCuy-48" value="信号肽" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="610" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BLJl1hO2xZ646HimByWD-10" value="表达载体构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
