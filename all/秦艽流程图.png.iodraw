@@ -58,10 +58,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-20" value="阳性克隆筛选" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-22" value="测序验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="585" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-24" target="6Jp87l313kywOyIuwCuy-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
