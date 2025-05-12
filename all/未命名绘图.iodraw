@@ -1,146 +1,137 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090c33) XWEB/13487 Flue" version="24.7.17">
-  <diagram name="第 1 页" id="CmMw8Cmd1MRY9MKhcWR1">
-    <mxGraphModel dx="1437" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="Z0IMHTA2rlIc6OVDNDpX">
+    <mxGraphModel dx="862" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="PbO437Gk_KlcIjcAYgFw-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400.0000000000002" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="PbO437Gk_KlcIjcAYgFw-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400.0000000000002" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="PbO437Gk_KlcIjcAYgFw-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400.0000000000002" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-4" target="PbO437Gk_KlcIjcAYgFw-60" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-1" target="6Jp87l313kywOyIuwCuy-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-4" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="140" width="130" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-1" value="秦艽样品的采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="110" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="180" as="sourcePoint" />
-            <mxPoint x="560" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-53" target="PbO437Gk_KlcIjcAYgFw-83" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-4" target="6Jp87l313kywOyIuwCuy-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-53" value="原核表达" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="140" width="120" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;RNA提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="170" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-60" target="PbO437Gk_KlcIjcAYgFw-71" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-7" target="6Jp87l313kywOyIuwCuy-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-60" target="PbO437Gk_KlcIjcAYgFw-134" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-7" target="6Jp87l313kywOyIuwCuy-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-60" value="目的基因的获取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="200" width="130" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-7" value="基因克隆" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="230" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-71" target="PbO437Gk_KlcIjcAYgFw-75" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-9" target="6Jp87l313kywOyIuwCuy-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-71" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="260" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-75" target="PbO437Gk_KlcIjcAYgFw-77" edge="1">
+        <mxCell id="hPVoOjQDK56d7CTH37zb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Jp87l313kywOyIuwCuy-9" target="6Jp87l313kywOyIuwCuy-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-75" value="转化感受态细胞" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="320" width="130" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-9" value="生物信息学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="300" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-77" target="PbO437Gk_KlcIjcAYgFw-79" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-12" target="6Jp87l313kywOyIuwCuy-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-77" value="铺抗性平板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="380" width="130" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;PCR&lt;/font&gt;扩增目的基因" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-79" target="PbO437Gk_KlcIjcAYgFw-81" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-14" target="6Jp87l313kywOyIuwCuy-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-79" value="阳性克隆筛选" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="440" width="130" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-14" value="目的基因与载体连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-81" target="PbO437Gk_KlcIjcAYgFw-113" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-16" target="6Jp87l313kywOyIuwCuy-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-81" value="测序验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="500" width="130" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-16" value="转化感受态细胞" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-83" target="PbO437Gk_KlcIjcAYgFw-85" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-18" target="6Jp87l313kywOyIuwCuy-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-83" value="表达载体构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-18" value="铺抗性平板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-85" target="PbO437Gk_KlcIjcAYgFw-87" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-20" target="6Jp87l313kywOyIuwCuy-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-85" value="表达菌株培养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-20" value="阳性克隆筛选" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-87" target="PbO437Gk_KlcIjcAYgFw-89" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-22" value="测序验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="545" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jp87l313kywOyIuwCuy-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-24" target="6Jp87l313kywOyIuwCuy-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-87" value="诱导蛋白表达" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-24" value="理化性质" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="300" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-89" target="PbO437Gk_KlcIjcAYgFw-91" edge="1">
+        <mxCell id="hPVoOjQDK56d7CTH37zb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Jp87l313kywOyIuwCuy-28" target="6Jp87l313kywOyIuwCuy-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-89" value="优化诱导表达条件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="380" width="120" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-28" value="表达载体构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-91" target="PbO437Gk_KlcIjcAYgFw-95" edge="1">
+        <mxCell id="hPVoOjQDK56d7CTH37zb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Jp87l313kywOyIuwCuy-30" target="6Jp87l313kywOyIuwCuy-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-91" value="菌体收集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="440" width="120" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-30" value="表达菌株培养" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="420" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-95" target="PbO437Gk_KlcIjcAYgFw-97" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-32" target="6Jp87l313kywOyIuwCuy-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-95" value="蛋白纯化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="500" width="120" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-32" value="诱导表达" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="480" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-97" value="蛋白活性检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="564.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-104" target="PbO437Gk_KlcIjcAYgFw-106" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-34" target="6Jp87l313kywOyIuwCuy-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-104" value="RNA提取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="260" width="60" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-34" value="原核表达条件探索" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="550" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-106" target="PbO437Gk_KlcIjcAYgFw-108" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-36" target="6Jp87l313kywOyIuwCuy-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-106" value="cDNA合成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="320" width="60" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-36" value="蛋白纯化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="610" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-108" value="CDS区域克隆" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="380" width="60" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-38" value="蛋白活性检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="670" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-113" value="生物信息学分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="500" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PbO437Gk_KlcIjcAYgFw-134" target="PbO437Gk_KlcIjcAYgFw-104" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-40" target="6Jp87l313kywOyIuwCuy-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-134" value="样品采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="200" width="60" height="40" as="geometry" />
+        <mxCell id="6Jp87l313kywOyIuwCuy-40" value="亚细胞定位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PbO437Gk_KlcIjcAYgFw-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PbO437Gk_KlcIjcAYgFw-113" target="PbO437Gk_KlcIjcAYgFw-113" edge="1">
+        <mxCell id="6Jp87l313kywOyIuwCuy-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-42" target="6Jp87l313kywOyIuwCuy-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jp87l313kywOyIuwCuy-42" value="亲/疏水性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="420" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jp87l313kywOyIuwCuy-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-44" target="6Jp87l313kywOyIuwCuy-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jp87l313kywOyIuwCuy-44" value="二级/三级结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jp87l313kywOyIuwCuy-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-46" target="6Jp87l313kywOyIuwCuy-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jp87l313kywOyIuwCuy-46" value="跨膜结构域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Jp87l313kywOyIuwCuy-48" value="信号肽" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="610" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
