@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-18" value="铺抗性平板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Jp87l313kywOyIuwCuy-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Jp87l313kywOyIuwCuy-20" target="6Jp87l313kywOyIuwCuy-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
